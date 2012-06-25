@@ -25,7 +25,7 @@ In die Berge
 Unterricht
 Pausen
 Pausenbrot
-かぞく
+Familie
 Familie
 Ich selbst
 Fruehling
@@ -89,7 +89,7 @@ Hobby
 Gelb
 Weiss
 Schwarz
-うんどう
+ausüben
 Lesen
 Musik
 Filme
