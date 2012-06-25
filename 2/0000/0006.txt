@@ -3,19 +3,19 @@ MUELL
 REGISTRIEREN
 もたせる
 タグをみる
-けってい
-おりる
-もどる
-やめる
-みせる
-ダミー
-キャンセル
-もちもの
-メール
+Entscheidung
+Wasserfälle
+zurück
+verlassen
+zeigen
+Attrappe
+storniert
+Persönliche Gegenstände
+E-Mail
 あずかる
 あずける
-みる
-なし
+sehen
+kein
 かいじょ
 ？？？
 ？？？？？
@@ -35,19 +35,19 @@ REGISTRIEREN
 カーソル
 まえに　もどります！
 なにを　しますか？
-あげる
+oben
 \xf000Ȃ\x0001\x0000
 ×
-のみ
-\xf000ȃ\x0001\x0000まい
-とじる
-\xf000ĉ\x0001\x0000を　どうしますか？
-ここで　メールを\xfffeかくことは　できません！
-ポケモンが　いませんよ！
-\xf000ĉ\x0001\x0000を　いどうさせます
-\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-\xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
+nur
+\xf000ȃ\x0001\x0000Mai
+schließen
+\xf000ĉ\x0001\x0000die　どうしますか？
+hier　E-Mail\xfffeかくことは　できません！
+Pokemon　いませんよ！
+\xf000ĉ\x0001\x0000die　bewegen
+\xf000ĉ\x0001\x0000die\xfffeもたせることは　できません！
+ここでは　\xf000ĉ\x0001\x0000die\xfffeもたせることは　できません！
+\xf000ĉ\x0001\x0000die\xfffeeinige　あずけますか？
 \xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
 これいじょう　あずけられません！
 これは　たいせつなもの　なので\xfffeすてることが　できません！
